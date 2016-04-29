@@ -1,0 +1,18 @@
+{
+  "name": "node-selenium-webdriver",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "leerb <914726892@qq.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/iq9891/node-selenium-webdriver",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "client/bower_components",
+    "test",
+    "tests"
+  ]
+}

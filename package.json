@@ -1,0 +1,23 @@
+{
+  "name": "node-selenium-webdriver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iq9891/node-selenium-webdriver.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iq9891/node-selenium-webdriver/issues"
+  },
+  "homepage": "https://github.com/iq9891/node-selenium-webdriver#readme",
+  "devDependencies": {
+    "grunt-selenium-webdriver": "^0.2.482",
+    "selenium-webdriver": "^2.53.2"
+  }
+}
